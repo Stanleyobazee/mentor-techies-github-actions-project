@@ -2,12 +2,12 @@
 
 Hi 👋
 
-This is a word counter built with HTML, CSS and JavaScript. It simply counts the number of words you have in your text.
+This is a word counter built with HTML, CSS and JavaScript. It simply counts the number of words you have in your text. This is useful when writing your essays, statement of purpose etc for graduate scholl application that have limit of 800 words or 100 words. Simply copy essay and it will show you how many words you have written in your essay.
 
 
 ## How to use
 
-Although this is a very simple frontend application, for practice, I created a `Dockerfile` to create an image for this application. It was also pushed to Docker hub via github Actions. 
+Although this is a very simple frontend application, for practice, it is meant to be dockerized using a `Dockerfile` to create an image for this application. It will be pushed to Docker hub via github Actions. 
 
 This process makes setting this application up very simple. The following steps can be used to set up this project on your local machine.
 
@@ -30,17 +30,6 @@ You have write the text in the text area form and click on the button to count t
 
 ![word counter view](/wordcount.JPG)
 
-## Background
-
-My IT defense required that I write an essay which would be 250 words long. As a fun idea, I decided to make a word counter which would simply help me count the length of the text. 
-
-## Contribution
-
-You can go through the project and it's various files and raise issues where you find bugs, or want to improve.
-
-## Credits
-
-The inspiration of this project is from Rivers state university, computer science dept.
 
 
 
