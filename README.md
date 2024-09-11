@@ -7,7 +7,9 @@ This is a word counter built with HTML, CSS and JavaScript. It simply counts the
 
 ## How to use
 
-Although this is a very simple frontend application, for practice, it is meant to be dockerized using a `Dockerfile` to create an image for this application. It will be pushed to Docker hub via github Actions. 
+Although this is a very simple frontend application written in html, css and javascript, you can run it directly using the index.html file and see the results. 
+
+But for consitent development environment, it is meant to be dockerized using a `Dockerfile` to create an image for this application. It will be pushed to Docker hub via github Actions. 
 
 This process makes setting this application up very simple. The following steps can be used to set up this project on your local machine.
 
